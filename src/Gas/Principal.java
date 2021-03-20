@@ -25,6 +25,8 @@ public class Principal {
         System.out.println("El costo por litro es: " + op1.getCostoLitros()); //Mostramos costo por litro cargado
         System.out.println("El total a pagar por los litros cargados es: " + op1.getTotal()); //Total a pagar
         
+        System.out.println("Modificación");
+        
     }
     
 }
